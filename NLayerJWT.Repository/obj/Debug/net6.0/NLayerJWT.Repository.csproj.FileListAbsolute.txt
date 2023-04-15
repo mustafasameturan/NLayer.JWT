@@ -15,3 +15,5 @@
 /Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Repository/obj/Debug/net6.0/refint/NLayerJWT.Repository.dll
 /Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Repository/obj/Debug/net6.0/NLayerJWT.Repository.pdb
 /Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Repository/obj/Debug/net6.0/ref/NLayerJWT.Repository.dll
+/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Repository/bin/Debug/net6.0/NLayerJWT.Repository.runtimeconfig.json
+/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Repository/obj/Debug/net6.0/NLayerJWT.Repository.genruntimeconfig.cache
