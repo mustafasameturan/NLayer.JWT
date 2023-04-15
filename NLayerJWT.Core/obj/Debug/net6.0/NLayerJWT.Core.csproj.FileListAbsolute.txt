@@ -1,0 +1,15 @@
+/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Core/bin/Debug/net6.0/NLayerJWT.Core.deps.json
+/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Core/bin/Debug/net6.0/NLayerJWT.Core.dll
+/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Core/bin/Debug/net6.0/NLayerJWT.Core.pdb
+/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Core/bin/Debug/net6.0/SharedLibrary.dll
+/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Core/bin/Debug/net6.0/SharedLibrary.pdb
+/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Core/obj/Debug/net6.0/NLayerJWT.Core.csproj.AssemblyReference.cache
+/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Core/obj/Debug/net6.0/NLayerJWT.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Core/obj/Debug/net6.0/NLayerJWT.Core.AssemblyInfoInputs.cache
+/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Core/obj/Debug/net6.0/NLayerJWT.Core.AssemblyInfo.cs
+/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Core/obj/Debug/net6.0/NLayerJWT.Core.csproj.CoreCompileInputs.cache
+/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Core/obj/Debug/net6.0/NLayerJWT.Core.csproj.CopyComplete
+/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Core/obj/Debug/net6.0/NLayerJWT.Core.dll
+/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Core/obj/Debug/net6.0/refint/NLayerJWT.Core.dll
+/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Core/obj/Debug/net6.0/NLayerJWT.Core.pdb
+/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Core/obj/Debug/net6.0/ref/NLayerJWT.Core.dll

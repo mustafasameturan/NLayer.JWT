@@ -1,0 +1,241 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Service/NLayerJWT.Service.csproj": {}
+  },
+  "projects": {
+    "/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Core/NLayerJWT.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Core/NLayerJWT.Core.csproj",
+        "projectName": "NLayerJWT.Core",
+        "projectPath": "/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Core/NLayerJWT.Core.csproj",
+        "packagesPath": "/Users/mustafasameturan/.nuget/packages/",
+        "outputPath": "/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mustafasameturan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mustafasameturan/Projects/NLayerJWT/SharedLibrary/SharedLibrary.csproj": {
+                "projectPath": "/Users/mustafasameturan/Projects/NLayerJWT/SharedLibrary/SharedLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Repository/NLayerJWT.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Repository/NLayerJWT.Repository.csproj",
+        "projectName": "NLayerJWT.Repository",
+        "projectPath": "/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Repository/NLayerJWT.Repository.csproj",
+        "packagesPath": "/Users/mustafasameturan/.nuget/packages/",
+        "outputPath": "/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mustafasameturan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Core/NLayerJWT.Core.csproj": {
+                "projectPath": "/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Core/NLayerJWT.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Service/NLayerJWT.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Service/NLayerJWT.Service.csproj",
+        "projectName": "NLayerJWT.Service",
+        "projectPath": "/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Service/NLayerJWT.Service.csproj",
+        "packagesPath": "/Users/mustafasameturan/.nuget/packages/",
+        "outputPath": "/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mustafasameturan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Repository/NLayerJWT.Repository.csproj": {
+                "projectPath": "/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Repository/NLayerJWT.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mustafasameturan/Projects/NLayerJWT/SharedLibrary/SharedLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mustafasameturan/Projects/NLayerJWT/SharedLibrary/SharedLibrary.csproj",
+        "projectName": "SharedLibrary",
+        "projectPath": "/Users/mustafasameturan/Projects/NLayerJWT/SharedLibrary/SharedLibrary.csproj",
+        "packagesPath": "/Users/mustafasameturan/.nuget/packages/",
+        "outputPath": "/Users/mustafasameturan/Projects/NLayerJWT/SharedLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mustafasameturan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
