@@ -1,0 +1,12 @@
+/Users/mustafasameturan/Projects/NLayerJWT/SharedLibrary/bin/Debug/net6.0/SharedLibrary.deps.json
+/Users/mustafasameturan/Projects/NLayerJWT/SharedLibrary/bin/Debug/net6.0/SharedLibrary.dll
+/Users/mustafasameturan/Projects/NLayerJWT/SharedLibrary/bin/Debug/net6.0/SharedLibrary.pdb
+/Users/mustafasameturan/Projects/NLayerJWT/SharedLibrary/obj/Debug/net6.0/SharedLibrary.csproj.AssemblyReference.cache
+/Users/mustafasameturan/Projects/NLayerJWT/SharedLibrary/obj/Debug/net6.0/SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafasameturan/Projects/NLayerJWT/SharedLibrary/obj/Debug/net6.0/SharedLibrary.AssemblyInfoInputs.cache
+/Users/mustafasameturan/Projects/NLayerJWT/SharedLibrary/obj/Debug/net6.0/SharedLibrary.AssemblyInfo.cs
+/Users/mustafasameturan/Projects/NLayerJWT/SharedLibrary/obj/Debug/net6.0/SharedLibrary.csproj.CoreCompileInputs.cache
+/Users/mustafasameturan/Projects/NLayerJWT/SharedLibrary/obj/Debug/net6.0/SharedLibrary.dll
+/Users/mustafasameturan/Projects/NLayerJWT/SharedLibrary/obj/Debug/net6.0/refint/SharedLibrary.dll
+/Users/mustafasameturan/Projects/NLayerJWT/SharedLibrary/obj/Debug/net6.0/SharedLibrary.pdb
+/Users/mustafasameturan/Projects/NLayerJWT/SharedLibrary/obj/Debug/net6.0/ref/SharedLibrary.dll

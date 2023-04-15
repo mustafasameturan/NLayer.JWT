@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "VOVE2SEQk9uAQ7GGbCx/n93/k97V+4w1BCObPzXPYLX1QsU/3ZMmzivVQHcB1MW4aAaRgV8Y+p12E+8NMP0snw==",
+  "success": true,
+  "projectFilePath": "/Users/mustafasameturan/Projects/NLayerJWT/MiniApp3.API/MiniApp3.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/mustafasameturan/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/mustafasameturan/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/mustafasameturan/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/mustafasameturan/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/mustafasameturan/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/mustafasameturan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
