@@ -1,13 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "Hcnn0kiw0UdceiJA5CLYImsbib2Gg4dagshpihZ2u7RIIZ/Y3Di3GcRaq3UbunECKr/qN3OIIUiMPI0NDM3xUg==",
+  "dgSpecHash": "kdjUKkwTtohc+LObGxmb8srH30e4B82iDtO4mVxpQEBurSbpSqt92RtY41tG9oPToAUiaZRsT8EClZ4wv4U0rg==",
   "success": true,
   "projectFilePath": "/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Service/NLayerJWT.Service.csproj",
   "expectedPackageFiles": [
+    "/Users/mustafasameturan/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/mustafasameturan/.nuget/packages/microsoft.aspnetcore.cryptography.internal/6.0.3/microsoft.aspnetcore.cryptography.internal.6.0.3.nupkg.sha512",
     "/Users/mustafasameturan/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/6.0.3/microsoft.aspnetcore.cryptography.keyderivation.6.0.3.nupkg.sha512",
     "/Users/mustafasameturan/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/6.0.3/microsoft.aspnetcore.identity.entityframeworkcore.6.0.3.nupkg.sha512",
-    "/Users/mustafasameturan/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/mustafasameturan/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/mustafasameturan/.nuget/packages/microsoft.data.sqlclient/2.1.4/microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "/Users/mustafasameturan/.nuget/packages/microsoft.data.sqlclient.sni.runtime/2.1.1/microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "/Users/mustafasameturan/.nuget/packages/microsoft.entityframeworkcore/6.0.3/microsoft.entityframeworkcore.6.0.3.nupkg.sha512",
