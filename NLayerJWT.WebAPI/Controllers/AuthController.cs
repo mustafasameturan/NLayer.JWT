@@ -1,12 +1,45 @@
 using Microsoft.AspNetCore.Mvc;
+using NLayerJWT.Core.DTOs;
+using NLayerJWT.Core.Services;
 
 namespace NLayerJWT.WebAPI.Controllers;
 
-public class AuthController : Controller
+[Route("api/[controller]/[action]")]
+[ApiController]
+public class AuthController : BaseController
 {
-    // GET
-    public IActionResult Index()
+    private readonly IAuthenticationService _authenticationService;
+
+    public AuthController(IAuthenticationService authenticationService)
     {
-        return View();
+        _authenticationService = authenticationService;
+    }
+
+    [HttpPost]
+    public async Task<IActionResult> CreateToken(LoginDto loginDto)
+    {
+        var result = await _authenticationService.CreateTokenAsync(loginDto);
+        return ActionResultInstance(result);
+    }
+
+    [HttpPost]
+    public IActionResult CreateTokenByClient(ClientLoginDto clientLoginDto)
+    {
+        var result = _authenticationService.CreateTokenByClient(clientLoginDto);
+        return ActionResultInstance(result);
+    }
+
+    [HttpPost]
+    public async Task<IActionResult> RevokeRefreshToken(RefreshTokenDto refreshTokenDto)
+    {
+        var result = await _authenticationService.RevokeRefreshToken(refreshTokenDto.Token);
+        return ActionResultInstance(result);
+    }
+
+    [HttpPost]
+    public async Task<IActionResult> CreateTokenByRefreshToken(RefreshTokenDto refreshTokenDto)
+    {
+        var result = await _authenticationService.CreateTokenByRefreshToken(refreshTokenDto.Token);
+        return ActionResultInstance(result);
     }
 }

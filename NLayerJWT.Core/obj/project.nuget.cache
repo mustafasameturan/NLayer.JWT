@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "XSxx0tdWGYlFSS7kzgGPFEVKdO9rj1nU1JC7iDiYaWJnSmjlUI4bnYY34ugvCNd348JspwJKGZwnInVHUyriXQ==",
+  "dgSpecHash": "DWwqdkWsm0/KrvO5XIXz7KHZlrDA1x1/yq8SG/G65eCrL6CBDtdCJYwR8JAnauv9enPyD7fPM/YzBT8IIKvf+g==",
   "success": true,
   "projectFilePath": "/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.Core/NLayerJWT.Core.csproj",
   "expectedPackageFiles": [
+    "/Users/mustafasameturan/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/6.0.3/microsoft.aspnetcore.authentication.jwtbearer.6.0.3.nupkg.sha512",
     "/Users/mustafasameturan/.nuget/packages/microsoft.aspnetcore.cryptography.internal/6.0.3/microsoft.aspnetcore.cryptography.internal.6.0.3.nupkg.sha512",
     "/Users/mustafasameturan/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/6.0.3/microsoft.aspnetcore.cryptography.keyderivation.6.0.3.nupkg.sha512",
     "/Users/mustafasameturan/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/6.0.3/microsoft.aspnetcore.identity.entityframeworkcore.6.0.3.nupkg.sha512",
+    "/Users/mustafasameturan/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/Users/mustafasameturan/.nuget/packages/microsoft.entityframeworkcore/6.0.3/microsoft.entityframeworkcore.6.0.3.nupkg.sha512",
     "/Users/mustafasameturan/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.3/microsoft.entityframeworkcore.abstractions.6.0.3.nupkg.sha512",
     "/Users/mustafasameturan/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.3/microsoft.entityframeworkcore.analyzers.6.0.3.nupkg.sha512",
@@ -22,9 +24,16 @@
     "/Users/mustafasameturan/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "/Users/mustafasameturan/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
     "/Users/mustafasameturan/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/mustafasameturan/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.10.0/microsoft.identitymodel.jsonwebtokens.6.10.0.nupkg.sha512",
+    "/Users/mustafasameturan/.nuget/packages/microsoft.identitymodel.logging/6.10.0/microsoft.identitymodel.logging.6.10.0.nupkg.sha512",
+    "/Users/mustafasameturan/.nuget/packages/microsoft.identitymodel.protocols/6.10.0/microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "/Users/mustafasameturan/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.10.0/microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
+    "/Users/mustafasameturan/.nuget/packages/microsoft.identitymodel.tokens/6.10.0/microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
     "/Users/mustafasameturan/.nuget/packages/system.collections.immutable/6.0.0/system.collections.immutable.6.0.0.nupkg.sha512",
     "/Users/mustafasameturan/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
-    "/Users/mustafasameturan/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "/Users/mustafasameturan/.nuget/packages/system.identitymodel.tokens.jwt/6.10.0/system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512",
+    "/Users/mustafasameturan/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/mustafasameturan/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

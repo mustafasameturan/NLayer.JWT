@@ -33,9 +33,9 @@ public class ServiceGeneric<TEntity, TDto> : IServiceGeneric<TEntity, TDto> wher
 
     public async Task<Response<IEnumerable<TDto>>> GetAllAsync()
     {
-        var products = ObjectMapper.Mapper.Map<List<TDto>>(await _repository.GetAllAsync());
+        var entity = ObjectMapper.Mapper.Map<List<TDto>>(await _repository.GetAllAsync());
 
-        return Response<IEnumerable<TDto>>.Success(products, 204);
+        return Response<IEnumerable<TDto>>.Success(entity, 200);
     }
 
     public async Task<Response<IEnumerable<TDto>>> Where(Expression<Func<TEntity, bool>> predicate)

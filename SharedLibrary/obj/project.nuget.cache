@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "FyOqCdhP0hSqxGlo8UDFaXujfNzOSnYAZDJSUbhmWNSlhYebskK6N7N9/BemEMxN3op1gw+YQDppte4bzbMNqw==",
+  "dgSpecHash": "bR9AyFko+42jb8zjjKQCqC1yQMJWnXRK9HOzrQ2rCLLreTzQ9j9f1bxnwyb6yU0er7e7JqzMXLqHEgYxZb1IDg==",
   "success": true,
   "projectFilePath": "/Users/mustafasameturan/Projects/NLayerJWT/SharedLibrary/SharedLibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/mustafasameturan/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/6.0.3/microsoft.aspnetcore.authentication.jwtbearer.6.0.3.nupkg.sha512",
+    "/Users/mustafasameturan/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/mustafasameturan/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.10.0/microsoft.identitymodel.jsonwebtokens.6.10.0.nupkg.sha512",
+    "/Users/mustafasameturan/.nuget/packages/microsoft.identitymodel.logging/6.10.0/microsoft.identitymodel.logging.6.10.0.nupkg.sha512",
+    "/Users/mustafasameturan/.nuget/packages/microsoft.identitymodel.protocols/6.10.0/microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "/Users/mustafasameturan/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.10.0/microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
+    "/Users/mustafasameturan/.nuget/packages/microsoft.identitymodel.tokens/6.10.0/microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
+    "/Users/mustafasameturan/.nuget/packages/system.identitymodel.tokens.jwt/6.10.0/system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512",
+    "/Users/mustafasameturan/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

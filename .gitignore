@@ -1,1 +1,21 @@
 /NLayerJWT.sln
+# Rider
+.idea/
+*.iml
+
+# Build and temporary files
+/bin/
+/obj/
+/*.dll
+/*.pdb
+
+# MSTest test Results
+/TestResults/
+/Debug_Test/
+/Release_Test/
+/Debug_Test*.log
+/Release_Test*.log
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml

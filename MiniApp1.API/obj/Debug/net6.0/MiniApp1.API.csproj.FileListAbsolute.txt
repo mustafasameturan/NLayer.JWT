@@ -32,3 +32,10 @@
 /Users/mustafasameturan/Projects/NLayerJWT/MiniApp1.API/obj/Debug/net6.0/MiniApp1.API.pdb
 /Users/mustafasameturan/Projects/NLayerJWT/MiniApp1.API/obj/Debug/net6.0/MiniApp1.API.genruntimeconfig.cache
 /Users/mustafasameturan/Projects/NLayerJWT/MiniApp1.API/obj/Debug/net6.0/ref/MiniApp1.API.dll
+/Users/mustafasameturan/Projects/NLayerJWT/MiniApp1.API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/mustafasameturan/Projects/NLayerJWT/MiniApp1.API/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/mustafasameturan/Projects/NLayerJWT/MiniApp1.API/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/mustafasameturan/Projects/NLayerJWT/MiniApp1.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/mustafasameturan/Projects/NLayerJWT/MiniApp1.API/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/mustafasameturan/Projects/NLayerJWT/MiniApp1.API/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/mustafasameturan/Projects/NLayerJWT/MiniApp1.API/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
