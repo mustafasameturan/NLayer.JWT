@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using NLayerJWT.Core.DTOs;
 using NLayerJWT.Core.Services;
+using SharedLibrary.Exceptions;
 
 namespace NLayerJWT.WebAPI.Controllers;
 
@@ -19,6 +20,7 @@ public class UserController : BaseController
     [HttpPost]
     public async Task<IActionResult> CreateUser(CreateUserDto createUserDto)
     {
+        //throw new CustomException("Bir hata meydana geldi!");
         return ActionResultInstance(await _userService.CreateUserAsync(createUserDto));
     }
 

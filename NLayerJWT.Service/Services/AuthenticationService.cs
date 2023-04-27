@@ -96,13 +96,13 @@ public class AuthenticationService : IAuthenticationService
 
     public Response<ClientTokenDto> CreateTokenByClient(ClientLoginDto clientLoginDto)
     {
-        var client = _clients.SingleOrDefault(x => x.Id == clientLoginDto.ClientId && x.Secret == clientLoginDto.ClientSecret);
-
+        var client = _clients.SingleOrDefault(x => x.Id == clientLoginDto.ClientId &&
+                                                   x.Secret == clientLoginDto.ClientSecret);
         if (client == null)
         {
             return Response<ClientTokenDto>.Fail("ClientId or ClientSecret not found", 404, true);
         }
-
+        
         var token = _tokenService.CreateTokenByClient(client);
 
         return Response<ClientTokenDto>.Success(token, 200);

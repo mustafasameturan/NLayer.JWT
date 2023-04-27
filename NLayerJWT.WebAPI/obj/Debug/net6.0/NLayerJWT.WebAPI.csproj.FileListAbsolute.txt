@@ -79,3 +79,6 @@
 /Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.WebAPI/bin/Debug/net6.0/Humanizer.dll
 /Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.WebAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.WebAPI/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.WebAPI/bin/Debug/net6.0/FluentValidation.dll
+/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.WebAPI/bin/Debug/net6.0/FluentValidation.AspNetCore.dll
+/Users/mustafasameturan/Projects/NLayerJWT/NLayerJWT.WebAPI/bin/Debug/net6.0/FluentValidation.DependencyInjectionExtensions.dll
